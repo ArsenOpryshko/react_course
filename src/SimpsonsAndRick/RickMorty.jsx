@@ -21,5 +21,4 @@ const RickMorty = (props) => {
         </div>
     )
 }
-
 export default RickMorty;
