@@ -1,0 +1,31 @@
+
+.posts_info{
+    width: 47.8%;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: 10px auto 10px auto;
+    text-align: start;
+
+}
+.posts_info p{
+    margin: 5px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.posts_info h3{
+    margin: 5px;
+    background-color: orange;
+}
+.posts_info button{
+    right: 5px;
+    margin: 5px;
+}
+.postsDiv{
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    margin: 5px;
+}
